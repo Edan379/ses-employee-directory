@@ -30,17 +30,19 @@ architecture.md
 
 # Projet Structure
 
+```text
 ses-employee-directory/
 │
 ├── backend/
 │   ├── src/
-│   └── .env
+│   └── .env.example
 │
 ├── frontend/
 │   └── src/
 │
-├── architecture.md
+├── architecture_diagram.md
 └── README.md
+```
 
 ## Backend Setup
 1. Navigate to backend
